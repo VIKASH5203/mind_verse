@@ -24,6 +24,5 @@ Your app will now be accessible at localhost:3000
 
 ## Author
 
-👤 **Ankit kumar**
+👤 **Vikash kumar**
 
-- Github: [@onewaynoo](https://github.com/onewaynoo)
